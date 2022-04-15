@@ -1,6 +1,3 @@
-from itertools import product
-
-
 floaty1 = 35.0
 floaty2 = 47.0
 inty1 = 7
